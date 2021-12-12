@@ -1,7 +1,7 @@
 {
-    "OWNER": [""],
-    "STATUS": "",
-    "PREFİX": "",
-    "TOKEN": "",
+    "OWNER": ["OWNER İD"],
+    "STATUS": "Kado was here!",
+    "PREFİX": "!",
+    "TOKEN": "TOKEN GİR",
     "PAYMENT": false
 }
